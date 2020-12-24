@@ -1,4 +1,4 @@
-# WATCH(⌚️) &mdash; 
+# W A T C H ⌚️
 [horloge.com](https://eager-jackson-bb1ef0.netlify.app/)
 
 ## 🤔 About
